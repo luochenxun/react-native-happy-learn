@@ -1,0 +1,24 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+# Uncomment this line if you're using Swift
+# use_frameworks!
+
+target 'rnDemo' do
+  # 下面这部分是重点，它指定了依赖的本地 react-native库路径，和所依赖的子库，安装时，它会到这个目录中找所需要的文件。
+  pod 'React', :path => '../rn/node_modules/react-native', :subspecs => [
+    'Core',
+    'RCTImage',
+    'RCTNetwork',
+    'RCTText',
+    'RCTWebSocket',
+    # Add any other subspecs you want to use in your project
+  ]
+end
+
+target 'rnDemoTests' do
+
+end
+
+target 'rnDemoUITests' do
+
+end
