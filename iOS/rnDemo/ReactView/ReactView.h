@@ -1,10 +1,9 @@
 //
-//  ReactView.h
-//  test
+// ReactView.h
+// react-native-happy-learn
 //
-//  Created by luochenxun on 16/4/12.
-//  Copyright © 2016年 Kacha-Mobile. All rights reserved.
-//
+// Created by luochenxun on 2019-06-11
+// Copyright (c) 2019年 airone. All rights reserved.
 
 #import <UIKit/UIKit.h>
 

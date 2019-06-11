@@ -1,10 +1,9 @@
 //
-//  AppDelegate.m
-//  rnDemo
+// AppDelegate.m
+// react-native-happy-learn
 //
-//  Created by luochenxun on 16/5/17.
-//  Copyright © 2016年 JiaYouBao. All rights reserved.
-//
+// Created by luochenxun on 2019-06-11
+// Copyright (c) 2019年 airone. All rights reserved.
 
 #import "AppDelegate.h"
 

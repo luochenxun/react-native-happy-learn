@@ -243,7 +243,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0720;
-				ORGANIZATIONNAME = JiaYouBao;
+				ORGANIZATIONNAME = airone;
 				TargetAttributes = {
 					866E8F5B1CEAD1D10021BA1A = {
 						CreatedOnToolsVersion = 7.2;
